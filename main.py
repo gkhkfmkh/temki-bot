@@ -1,4 +1,5 @@
-"""Compatibility entry point for hosts configured to run `python main.py`."""
+
+"""PlayFunpay Team compatibility entry point."""
 
 from __future__ import annotations
 
